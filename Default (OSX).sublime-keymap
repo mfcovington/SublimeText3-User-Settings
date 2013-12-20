@@ -1,0 +1,4 @@
+[
+    // PerlTidy
+    { "keys": ["super+alt+p"], "command":"perl_tidy" },
+]
