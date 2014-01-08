@@ -4,6 +4,10 @@
 		"AdvancedNewFile",
 		"BracketHighlighter",
 		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Marked App Menu",
 		"PerlTidy"
 	]
 }
