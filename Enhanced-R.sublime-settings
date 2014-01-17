@@ -1,0 +1,9 @@
+{
+    "osx" : {
+        // R / R64 / Terminal / iTerm
+        "App" : "R64"
+    },
+
+    //  Allows for  '.' in R object names
+    "word_separators": "/\\()\"‘-:,;~!@#$%^&*|+=[]{}`~?"
+}
