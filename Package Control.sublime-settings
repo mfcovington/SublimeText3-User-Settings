@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AlignTab",
 		"BracketHighlighter",
 		"Enhanced-R",
 		"GitGutter",
