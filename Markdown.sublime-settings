@@ -1,0 +1,20 @@
+{
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/Themes-Adapted/Sunburst-mfc.tmTheme",
+	"draw_centered": false,
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	],
+	"highlight_line": true,
+	"line_numbers": true,
+	"mde.list_indent_auto_switch_bullet": false,
+	"rulers":
+	[
+		80
+	],
+	"word_wrap": true,
+	"wrap_width": 100
+}

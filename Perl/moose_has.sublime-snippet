@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+has '${1:attribute}' => (
+    is  => 'rw',
+    isa => '${2:Str}',${3:
+    default => '$4',
+    lazy => 1,}
+);
+
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mohas</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.perl</scope>
+</snippet>

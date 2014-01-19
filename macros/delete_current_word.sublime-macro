@@ -1,0 +1,11 @@
+[
+	{
+
+        "command": "expand_selection",
+        "args": {"to": "word"}
+	},
+	{
+		"args": null,
+		"command": "delete_word"
+	}
+]

@@ -1,0 +1,13 @@
+[
+    // PerlTidy
+    { "keys": ["super+alt+p"], "command":"perl_tidy" },
+
+    // delete word (before/after/current)
+    { "keys": ["ctrl+w"], "command": "delete_word", "args": { "forward": false, "sub_words": true } },
+    { "keys": ["alt+w"], "command": "delete_word", "args": { "forward": true, "sub_words": true } },
+    { "keys": ["ctrl+shift+w"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete_current_word.sublime-macro"} },
+
+    // delete to begining of line
+    { "keys": ["ctrl+u"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"} },
+
+]
